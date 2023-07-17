@@ -10,6 +10,6 @@ public class Reference {
 	public static final @Nonnull String PROXY_CLIENT = "net.teamfruit.emojicord.ClientProxy";
 	public static final @Nonnull String GUI_FACTORY = "net.teamfruit.emojicord.gui.config.ConfigGuiFactory";
 
-	public static final @Nonnull String EMOJI_GATEWAY = "https://raw.githubusercontent.com/Team-Fruit/Emojicord/api/api.json";
+	public static final @Nonnull String EMOJI_GATEWAY = "https://raw.githubusercontent.com/TheFieryFalcon/Emojicord-ATTEMPTED-fix/patch-1/api.json";
 	public static final @Nonnull String UPDATE_JSON = "https://raw.githubusercontent.com/Team-Fruit/Emojicord/update/update.json";
 }
