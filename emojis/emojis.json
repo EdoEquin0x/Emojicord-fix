@@ -3,7 +3,7 @@
   "versionTimestamp": "2019-11-21T20:12:48.7512821+00:00",
   "groups": [
     {
-      "location": "https://twemoji.maxcdn.com/2/72x72/",
+      "location": "https://cdn.jsdelivr.net/gh/twitter/twemoji@14.0.2/assets/72x72/",
       "emojis": [
         {
           "name": "grinning",
